@@ -1,8 +1,8 @@
 #!/bin/sh
-CDIR="~/git/de/xinit"
+CDIR=$(dirname "$(realpath "$0")") 
 
-$CDIR/xrandr.sh		&
+$CDIR/xrandr.sh	&
 $CDIR/mouse.sh		&
-$CDIR/startup_progs.sh	&
+$CDIR/startup_progs.sh &
 
 exec stumpwm
