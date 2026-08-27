@@ -1,7 +1,9 @@
-(let ((conf-dir (directory-namestring *load-truename*)))
+(let ((conf-dir (directory-namestring "~/git/de/stumpwm")))
 	(push conf-dir asdf:*central-registry*)
 	;; Log StumpWM messages.
 	(redirect-all-output (merge-pathnames "log" conf-dir)))
+
+(load "~/git/de/stumpwm/modeline.lisp")
 
 (load-module "desktop-entry")
 (load-module "screenshot")
@@ -28,3 +30,5 @@
 (gnew "4")
 (gselect "Default")
 (refresh-heads)
+
+(run-shell-command "gpg-connect-agent updatestartuptty /bye")

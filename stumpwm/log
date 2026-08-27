@@ -16,3 +16,10 @@ WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" fr
 WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+21:59:33  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
