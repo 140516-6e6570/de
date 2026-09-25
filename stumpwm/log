@@ -23,3 +23,462 @@ WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" fr
 WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+While evaluating the form starting at line 11, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 11, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 11, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 8, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+; compiling file "/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/package.lisp" (written 28 AUG 2026 01:59:49 AM):
+
+; wrote /home/neko/.cache/common-lisp/sbcl-2.6.6-bsd-x64/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/package-tmp2K9J0HSR.fasl
+; compilation finished in 0:00:00.001
+; compiling file "/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-entry.lisp" (written 28 AUG 2026 01:59:49 AM):
+
+; file: /home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-entry.lisp
+; in: DEFMETHOD MAKE-DESKTOP-ENTRY (LIST)
+;     (DESKTOP-ENTRY::MAIN-SECTION DESKTOP-ENTRY::*MAIN-SECTION*)
+; 
+; caught STYLE-WARNING:
+;   The variable MAIN-SECTION is defined but never used.
+
+
+; wrote /home/neko/.cache/common-lisp/sbcl-2.6.6-bsd-x64/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-entry-tmpP44I4E0Y.fasl
+; compilation finished in 0:00:00.025
+WARNING:
+   Lisp compilation had style-warnings while
+   compiling #<CL-SOURCE-FILE "desktop-entry" "desktop-entry">
+; compiling file "/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/entry-list.lisp" (written 28 AUG 2026 01:59:49 AM):
+
+; file: /home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/entry-list.lisp
+; in: DEFUN FIND-ENTRIES
+;     #'(LAMBDA (DESKTOP-ENTRY::ENTRY) NIL)
+; 
+; caught STYLE-WARNING:
+;   The variable ENTRY is defined but never used.
+
+
+; wrote /home/neko/.cache/common-lisp/sbcl-2.6.6-bsd-x64/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/entry-list-tmp63LQ7EX6.fasl
+; compilation finished in 0:00:00.015
+WARNING:
+   Lisp compilation had style-warnings while
+   compiling #<CL-SOURCE-FILE "desktop-entry" "entry-list">
+; compiling file "/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-menu.lisp" (written 28 AUG 2026 01:59:49 AM):
+
+; file: /home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-menu.lisp
+; in: STUMPWM:DEFCOMMAND SHOW-DESKTOP-MENU
+;     (ERROR (CONDITION) NIL)
+; 
+; caught STYLE-WARNING:
+;   The variable CONDITION is defined but never used.
+
+
+; wrote /home/neko/.cache/common-lisp/sbcl-2.6.6-bsd-x64/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-menu-tmp86F1A8FB.fasl
+; compilation finished in 0:00:00.020
+WARNING:
+   Lisp compilation had style-warnings while
+   compiling #<CL-SOURCE-FILE "desktop-entry" "desktop-menu">
+; compiling file "/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/utils.lisp" (written 28 AUG 2026 01:59:49 AM):
+
+; wrote /home/neko/.cache/common-lisp/sbcl-2.6.6-bsd-x64/home/neko/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/utils-tmpH7D4HL98.fasl
+; compilation finished in 0:00:00.002
+; 
+; compilation unit finished
+;   caught 3 STYLE-WARNING conditions
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+11:20:28  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+11:21:24  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+11:22:13  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+11:22:36  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+11:24:02  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+11:24:30  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+While evaluating the form starting at line 9, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":; compiling file "/home/neko/git/de/stumpwm/stumpwm-contrib/util/swm-gaps/package.lisp" (written 28 AUG 2026 01:59:49 AM):
+
+; wrote /home/neko/.cache/common-lisp/sbcl-2.6.6-bsd-x64/home/neko/git/de/stumpwm/stumpwm-contrib/util/swm-gaps/package-tmp2K9J0HSR.fasl
+; compilation finished in 0:00:00.003
+; compiling file "/home/neko/git/de/stumpwm/stumpwm-contrib/util/swm-gaps/swm-gaps.lisp" (written 28 AUG 2026 01:59:49 AM):
+
+; wrote /home/neko/.cache/common-lisp/sbcl-2.6.6-bsd-x64/home/neko/git/de/stumpwm/stumpwm-contrib/util/swm-gaps/swm-gaps-tmpP44I4E0Y.fasl
+; compilation finished in 0:00:00.042
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+
+; file: ~/git/de/stumpwm/platform/freebsd.lisp
+; in: TOGGLE-GAPS-ON
+;     (STUMPWM-USER::TOGGLE-GAPS-ON)
+; 
+; caught STYLE-WARNING:
+;   undefined function: STUMPWM-USER::TOGGLE-GAPS-ON
+; 
+; compilation unit finished
+;   Undefined function:
+;     TOGGLE-GAPS-ON
+;   caught 1 STYLE-WARNING condition
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+While evaluating the form starting at line 6, column 0
+  of #P"~/git/de/stumpwm/platform/freebsd.lisp":
+While evaluating the form starting at line 24, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+07:18:43  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+07:18:51  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+18:08:25  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead

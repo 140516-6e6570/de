@@ -1,7 +1,9 @@
 #!/bin/sh
 eval "$(dbus-launch --sh-syntax --exit-with-session)"
+
 export DBUS_SESSION_BUS_ADDRESS
 export DBUS_SESSION_BUS_PID
+export XDG_SESSION_TYPE=x11
 
 CDIR=$(dirname "$(realpath "$0")") 
 

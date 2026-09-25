@@ -113,3 +113,57 @@ WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" fr
 WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+While evaluating the form starting at line 8, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 8, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 8, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 8, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+#P"/home/neko/" While evaluating the form starting at line 10, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 10, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+"a" 
+NIL While evaluating the form starting at line 10, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
+; file: /home/neko/git/de/stumpwm/init.lisp
+; in:
+;      LET ((LAYOUT (GETENV "KBD_LAYOUT")) (MODEL (GETENV "KBD_MODEL"))
+;       (VARIANT (GETENV "KBD_VARIANT")))
+;     (SETF STUMPWM-USER::*KEYBOARD-LAYOUT* STUMPWM-USER::LAYOUT
+;           STUMPWM-USER::*KEYBOARD-MODEL* (OR STUMPWM-USER::MODEL "pc105")
+;           STUMPWM-USER::*KEYBOARD-VARIANT* STUMPWM-USER::VARIANT)
+; --> SETF 
+; ==>
+;   (SETQ STUMPWM-USER::*KEYBOARD-LAYOUT* STUMPWM-USER::LAYOUT)
+; 
+; caught WARNING:
+;   undefined variable: STUMPWM-USER::*KEYBOARD-LAYOUT*
+
+; ==>
+;   (SETQ STUMPWM-USER::*KEYBOARD-MODEL* (OR STUMPWM-USER::MODEL "pc105"))
+; 
+; caught WARNING:
+;   undefined variable: STUMPWM-USER::*KEYBOARD-MODEL*
+
+; ==>
+;   (SETQ STUMPWM-USER::*KEYBOARD-VARIANT* STUMPWM-USER::VARIANT)
+; 
+; caught WARNING:
+;   undefined variable: STUMPWM-USER::*KEYBOARD-VARIANT*
+
+;     (STUMPWM-USER::SET-XKB-MAP
+;      `(:MODEL ,(OR STUMPWM-USER::MODEL "pc105") :LAYOUT ,STUMPWM-USER::LAYOUT
+;        ,@(WHEN STUMPWM-USER::VARIANT (LIST :VARIANT STUMPWM-USER::VARIANT))))
+; 
+; caught STYLE-WARNING:
+;   undefined function: STUMPWM-USER::SET-XKB-MAP
+; 
+; compilation unit finished
+;   Undefined function:
+;     SET-XKB-MAP
+;   Undefined variables:
+;     *KEYBOARD-LAYOUT* *KEYBOARD-MODEL* *KEYBOARD-VARIANT*
+;   caught 3 WARNING conditions
+;   caught 1 STYLE-WARNING condition
+While evaluating the form starting at line 11, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":While evaluating the form starting at line 11, column 0
+  of #P"/home/neko/git/de/stumpwm/init.lisp":
