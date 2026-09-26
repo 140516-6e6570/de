@@ -482,3 +482,109 @@ WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
 WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/neko/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+; compiling file "/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/package.lisp" (written 26 SEP 2026 02:15:26 AM):
+
+; wrote /home/lu/.cache/common-lisp/sbcl-2.6.6.void.1-linux-x64/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/package-tmp2K9J0HSR.fasl
+; compilation finished in 0:00:00.002
+; compiling file "/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-entry.lisp" (written 26 SEP 2026 02:15:26 AM):
+
+; file: /home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-entry.lisp
+; in: DEFMETHOD MAKE-DESKTOP-ENTRY (LIST)
+;     (DESKTOP-ENTRY::MAIN-SECTION DESKTOP-ENTRY::*MAIN-SECTION*)
+; 
+; caught STYLE-WARNING:
+;   The variable MAIN-SECTION is defined but never used.
+
+
+; wrote /home/lu/.cache/common-lisp/sbcl-2.6.6.void.1-linux-x64/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-entry-tmpP44I4E0Y.fasl
+; compilation finished in 0:00:00.019
+WARNING:
+   Lisp compilation had style-warnings while
+   compiling #<CL-SOURCE-FILE "desktop-entry" "desktop-entry">
+; compiling file "/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/entry-list.lisp" (written 26 SEP 2026 02:15:26 AM):
+
+; file: /home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/entry-list.lisp
+; in: DEFUN FIND-ENTRIES
+;     #'(LAMBDA (DESKTOP-ENTRY::ENTRY) NIL)
+; 
+; caught STYLE-WARNING:
+;   The variable ENTRY is defined but never used.
+
+
+; wrote /home/lu/.cache/common-lisp/sbcl-2.6.6.void.1-linux-x64/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/entry-list-tmp63LQ7EX6.fasl
+; compilation finished in 0:00:00.011
+WARNING:
+   Lisp compilation had style-warnings while
+   compiling #<CL-SOURCE-FILE "desktop-entry" "entry-list">
+; compiling file "/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-menu.lisp" (written 26 SEP 2026 02:15:26 AM):
+
+; file: /home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-menu.lisp
+; in: STUMPWM:DEFCOMMAND SHOW-DESKTOP-MENU
+;     (ERROR (CONDITION) NIL)
+; 
+; caught STYLE-WARNING:
+;   The variable CONDITION is defined but never used.
+
+
+; wrote /home/lu/.cache/common-lisp/sbcl-2.6.6.void.1-linux-x64/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/desktop-menu-tmp86F1A8FB.fasl
+; compilation finished in 0:00:00.015
+WARNING:
+   Lisp compilation had style-warnings while
+   compiling #<CL-SOURCE-FILE "desktop-entry" "desktop-menu">
+; compiling file "/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/utils.lisp" (written 26 SEP 2026 02:15:26 AM):
+
+; wrote /home/lu/.cache/common-lisp/sbcl-2.6.6.void.1-linux-x64/home/lu/git/de/stumpwm/stumpwm-contrib/util/desktop-entry/utils-tmpH7D4HL98.fasl
+; compilation finished in 0:00:00.002
+; 
+; compilation unit finished
+;   caught 3 STYLE-WARNING conditions
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+; compiling file "/home/lu/git/de/stumpwm/stumpwm-contrib/util/swm-gaps/package.lisp" (written 26 SEP 2026 02:15:26 AM):
+
+; wrote /home/lu/.cache/common-lisp/sbcl-2.6.6.void.1-linux-x64/home/lu/git/de/stumpwm/stumpwm-contrib/util/swm-gaps/package-tmp2K9J0HSR.fasl
+; compilation finished in 0:00:00.003
+; compiling file "/home/lu/git/de/stumpwm/stumpwm-contrib/util/swm-gaps/swm-gaps.lisp" (written 26 SEP 2026 02:15:26 AM):
+
+; file: /home/lu/git/de/stumpwm/stumpwm-contrib/util/swm-gaps/swm-gaps.lisp
+; in: DEFUN STUMPWM::NEIGHBOUR
+;     (MULTIPLE-VALUE-BIND (SWM-GAPS::S SWM-GAPS::E SWM-GAPS::OFFSET)
+;         (STUMPWM::GET-EDGE SWM-GAPS::F SWM-GAPS::OPPOSITE)
+;       (LET ((SWM-GAPS::OFFSET-DIFF (ABS #)))
+;         (IF SWM-GAPS::NEAREST-EDGE-DIFF
+;             (IF (< SWM-GAPS::OFFSET-DIFF SWM-GAPS::NEAREST-EDGE-DIFF)
+;                 (SETF #))
+;             (SETF SWM-GAPS::NEAREST-EDGE-DIFF SWM-GAPS::OFFSET-DIFF))))
+; ==>
+;   #'(LAMBDA (&OPTIONAL SWM-GAPS::S SWM-GAPS::E SWM-GAPS::OFFSET &REST #:IGNORE)
+;       (DECLARE (IGNORE #:IGNORE))
+;       (LET ((SWM-GAPS::OFFSET-DIFF (ABS #)))
+;         (IF SWM-GAPS::NEAREST-EDGE-DIFF
+;             (IF (< SWM-GAPS::OFFSET-DIFF SWM-GAPS::NEAREST-EDGE-DIFF)
+;                 (SETF #))
+;             (SETF SWM-GAPS::NEAREST-EDGE-DIFF SWM-GAPS::OFFSET-DIFF))))
+; 
+; caught STYLE-WARNING:
+;   The variable S is defined but never used.
+; 
+; caught STYLE-WARNING:
+;   The variable E is defined but never used.
+
+
+; wrote /home/lu/.cache/common-lisp/sbcl-2.6.6.void.1-linux-x64/home/lu/git/de/stumpwm/stumpwm-contrib/util/swm-gaps/swm-gaps-tmpP44I4E0Y.fasl
+; compilation finished in 0:00:00.046
+WARNING:
+   Lisp compilation had style-warnings while
+   compiling #<CL-SOURCE-FILE "swm-gaps" "swm-gaps">
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+; 
+; compilation unit finished
+;   caught 2 STYLE-WARNING conditions
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead

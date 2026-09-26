@@ -1,0 +1,33 @@
+# de
+personal desktop setup files
+
+General Deps:
+
+MirKSH
+NeoVim
+DBus
+opendoas
+ls
+
+Linux Deps:
+
+Pipewire
+Flatpak
+
+General X11:
+
+Kitty
+Picom
+hsetroot
+uname
+feh
+setxkbmap
+XDG-X11-Portals
+XInput
+XRandr
+XModMap
+
+Linux X11 Deps:
+
+OpenTabletDriver
+fcitx5
