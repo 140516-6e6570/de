@@ -588,3 +588,178 @@ WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
 WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
 WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+03:08:07  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+03:16:22  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+00:24:58  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+11:19:48  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+11:27:34  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+06:43:10  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+06:47:40  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+00:25:55  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+01:23:17  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+18:47:54  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+15:28:32  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+20:58:15  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+07:31:24  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+01:11:57  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+05:06:56  0 SIGHUP received: forcing immediate restart of stumpwm
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: redefining STUMPWM::MAXIMIZE-WINDOW in DEFUN
+WARNING: redefining STUMPWM::NEIGHBOUR in DEFUN
+WARNING: UIOP/VERSION:PARSE-VERSION: "1.1-dev" doesn't follow asdf version numbering convention
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
+WARNING: Invalid :version specifier "1.1-dev" for component "py-configparser" from file #P"/home/lu/quicklisp/dists/quicklisp/software/py-configparser-20170830-svn/py-configparser.asd", using NIL instead
