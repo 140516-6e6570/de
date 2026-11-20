@@ -4,7 +4,7 @@
     {
       "Tablet": "Gaomon PD156 Pro",
       "OutputMode": {
-        "Path": "OpenTabletDriver.Desktop.Output.RelativeMode",
+        "Path": "OpenTabletDriver.Desktop.Output.LinuxArtistMode",
         "Settings": [],
         "Enable": true
       },
@@ -13,18 +13,18 @@
         "Display": {
           "Width": 1920.0,
           "Height": 1080.0,
-          "X": 2880.0,
+          "X": 960.0,
           "Y": 540.0,
           "Rotation": 0.0
         },
         "Tablet": {
-          "Width": 344.2,
+          "Width": 344.1778,
           "Height": 193.6,
-          "X": 172.1,
-          "Y": 96.8,
+          "X": 172.7,
+          "Y": 98.3,
           "Rotation": 0.0
         },
-        "EnableClipping": true,
+        "EnableClipping": false,
         "EnableAreaLimiting": false,
         "LockAspectRatio": false
       },
@@ -59,21 +59,21 @@
         },
         "PenButtons": [
           {
-            "Path": "OpenTabletDriver.Desktop.Binding.AdaptiveBinding",
+            "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
             "Settings": [
               {
-                "Property": "Binding",
-                "Value": "Button 1"
+                "Property": "Button",
+                "Value": "Right"
               }
             ],
             "Enable": true
           },
           {
-            "Path": "OpenTabletDriver.Desktop.Binding.AdaptiveBinding",
+            "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
             "Settings": [
               {
-                "Property": "Binding",
-                "Value": "Button 2"
+                "Property": "Button",
+                "Value": "Middle"
               }
             ],
             "Enable": true
@@ -97,11 +97,12 @@
         "WheelBindings": [],
         "DisablePressure": false,
         "DisableTilt": false,
+        "DisableRotation": false,
         "EnableDragBindings": false
       }
     }
   ],
   "LockUsableAreaDisplay": true,
-  "LockUsableAreaTablet": true,
+  "LockUsableAreaTablet": false,
   "Tools": []
 }
